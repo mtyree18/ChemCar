@@ -10,3 +10,9 @@ This week we worked on designing a model housing system in onshape. We followed 
 
 ## Week 9 Reflection
 We worked on a housing for our electrolysis that wouldn't melt or leak. We decided that a premade glass container would be best, we decided on a glass beaker as a starting place, as it will not have leakage problems and it will not melt. We started trying to figure out how to add a divider into our container so we could add a membrane that is neccassary for our electrolosis. It became evident that tampering with the glass beaker would damage it, and we had to return it to the chem lab. This became a major challenge for us, as we needed to experinment with how to seal our divider, but we had no container to experiment on, we will figure this out next week. 
+
+## Smart Goals for Q2
+1. Create a prototype that includes our laser cut box, divider and a method to electrolyze the water (Everything except the membrane which will take a long time to ship) by winter break, so we are ready to start testing when the membrane arrive. We will mesure this by if we have it or not
+
+2. Before thanksgiving break we will finish our onshape design and make sure we have a water tight box that can house electrolosis. 
+
