@@ -16,11 +16,11 @@ We worked on a housing for our electrolysis that wouldn't melt or leak. We decid
 
 2. Before thanksgiving break we will finish our onshape design and make sure we have a water tight box that can house electrolosis. 
 
-## Week 10 reflection
+## Week 10 Reflection
 This week we figured out how to create a water tight box with acrylic 
 
 
-## Week 11 reflection
+## Week 11 Reflection
 
 
 ## Week 12 Reflection
