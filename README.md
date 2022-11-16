@@ -17,7 +17,7 @@ We worked on a housing for our electrolysis that wouldn't melt or leak. We decid
 2. Before thanksgiving break we will finish our onshape design and make sure we have a water tight box that can house electrolosis. 
 
 ## Week 10 Reflection
-This week we figured out how to create a water tight box with acrylic 
+This week we figured out how to create a water tight box made of acrylic and sealed with caulk. We had a short week so we did not have much time, but we confirmed our theory about cualk serving as a good seal within an acrylic box. The next thing will be to incorperate our newfound ideas into a prototype for our electrolosys machine. 
 
 
 ## Week 11 Reflection
