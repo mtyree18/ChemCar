@@ -27,3 +27,4 @@ This week we figured out how to create a water tight box with acrylic
 
 
 ## Week 13 Reflection
+This week we worked on getting our box fully set up to be water tight. We ran into a problem with the divider walls not having holes in them for the membrane. That issue has been fixed and we are building the box to make everything water tight. Another problem we had the divider walls were too close together making it hard to caulk the walls inplace. These holes in in the walls should help with that too. Once we get the membrane and graphite rods we can fully set up our box and complete the prototype model. Next week we will keep working on making the box the best it can be for when we get those items.
