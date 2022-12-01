@@ -29,3 +29,6 @@ We tested the effectiveness of caulk to create watertight seems in the acrylic b
 
 ## Week 13 Reflection
 This week we worked on getting our box fully set up to be water tight. We ran into a problem with the divider walls not having holes in them for the membrane. That issue has been fixed and we are building the box to make everything water tight. Another problem we had the divider walls were too close together making it hard to caulk the walls inplace. These holes in in the walls should help with that too. Once we get the membrane and graphite rods we can fully set up our box and complete the prototype model. Next week we will keep working on making the box the best it can be for when we get those items.
+
+## Week 14 Reflection
+This week we started looking for ways to store the hydrogen and how to make a fuel cell so we dont have to buy one making our project more expensive. There haven't been problems this week just research. We found easy ways to make fuel cells and came up with a design for our storage. We are going to use a water/soda bottle to store the hydrogen. Next week we will start gathering materials for the fuel cell and storage and continue exploring ways to store the hydrogen.
