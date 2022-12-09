@@ -31,3 +31,6 @@ This week we worked on getting our box fully set up to be water tight. We ran in
 
 ## Week 14 Reflection
 This week we started looking for ways to store the hydrogen and how to make a fuel cell so we dont have to buy one making our project more expensive. There haven't been problems this week just research. We found easy ways to make fuel cells and came up with a design for our storage. We are going to use a water/soda bottle to store the hydrogen. Next week we will start gathering materials for the fuel cell and storage and continue exploring ways to store the hydrogen.
+
+## Week 15 Reflection
+This week we have been a bit stuck due to the lack of materials we need to complete our project. We have been doing research on the utilization side of our project, and learned how to make our own fuel cell without having to buy an expensive one. This week has been a research week. Next week we will get the materials we need to cotinue our project including platinum wire and Flexseal.
