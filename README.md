@@ -35,3 +35,6 @@ This week we started looking for ways to store the hydrogen and how to make a fu
 
 ## Week 15 Reflection
 This week we have been a bit stuck due to the lack of materials we need to complete our project. We have been doing research on the utilization side of our project, and learned how to make our own fuel cell without having to buy an expensive one. This week has been a research week. Next week we will get the materials we need to cotinue our project including platinum wire and Flexseal.
+
+## Week 16 Reflection
+We wrote up a way to transport and eventually store our hydrogen without mixing it with oxygen. This decision was in tandem with the decision to caulk the graphite rod and holder instead of using an O-ring. We didn't know how we were going to safely transport the hydrogen. We fixed this by coming up with a comprehensive plan using water. 
