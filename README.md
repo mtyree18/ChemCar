@@ -38,3 +38,6 @@ This week we have been a bit stuck due to the lack of materials we need to compl
 
 ## Week 16 Reflection
 We wrote up a way to transport and eventually store our hydrogen without mixing it with oxygen. This decision was in tandem with the decision to caulk the graphite rod and holder instead of using an O-ring. We didn't know how we were going to safely transport the hydrogen. We fixed this by coming up with a comprehensive plan using water. 
+
+## Week 17 Reflection
+This week we tested if we could make hydrogen in our box and we successfully did. Our carbon rods produced the oxygen and hydrogen. We realized we dont have a plan for what we are doing with the hydrogen so now we are now figuring out how we are going to store and what we are going to use the hydrogen for. Next week we will have a plan on how to store the hydrogen and start designing/making it.
