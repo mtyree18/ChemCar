@@ -49,3 +49,4 @@ We have made considerable progress on this project, and we are mostly on schedul
 
 
 ## Week 19 Reflection
+We did a lot of testing and it worked!!!!!!! We produced a signifigant amount of hydrogen using the power supply to power it. We will continue to use the power supply for testing, however we do need to find an easier and cheaper power source for the final product. We are now going to work on capturing the hydrogen via aquarium tubing. We ran into issues of leaking but they are relatively easy to fix right now, however we may need to redisign the way our box fits together.
