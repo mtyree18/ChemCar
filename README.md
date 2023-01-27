@@ -45,7 +45,7 @@ This week we tested if we could make hydrogen in our box and we successfully did
 ## Project Reflection
 We have made considerable progress on this project, and we are mostly on schedule with what we had planned at the beginning of this project. Our biggest roadblocks so far have been the arduous process of laser cutting the walls for our box, realizing they didn't fit, redoing it, assembling and caulking them incorrectly, starting over, etc. Once we finally moved past that roadblock though, our productivity skyrocketed and we are currently incredibly close to producing hydrogen in the final assembly we designed. That takes us to the next major step of our project: Polishing. We want to be able to market this device at a cheap price, and that means our project will need to look like a product. Some progress we have made on this goal includes the creation of a marketing slideshow, recruitment of a fellow student for branding, networking to find help in this field, and more. Overall, this project is looking like it will be a success, and as long as we keep up this level of productivity I believe we can really make this happen.
 
-## Week 18 reflection
+## Week 18 Reflection
 
-## Week 19 reflection
- 
+
+## Week 19 Reflection
