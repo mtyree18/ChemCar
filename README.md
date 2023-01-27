@@ -46,7 +46,7 @@ This week we tested if we could make hydrogen in our box and we successfully did
 We have made considerable progress on this project, and we are mostly on schedule with what we had planned at the beginning of this project. Our biggest roadblocks so far have been the arduous process of laser cutting the walls for our box, realizing they didn't fit, redoing it, assembling and caulking them incorrectly, starting over, etc. Once we finally moved past that roadblock though, our productivity skyrocketed and we are currently incredibly close to producing hydrogen in the final assembly we designed. That takes us to the next major step of our project: Polishing. We want to be able to market this device at a cheap price, and that means our project will need to look like a product. Some progress we have made on this goal includes the creation of a marketing slideshow, recruitment of a fellow student for branding, networking to find help in this field, and more. Overall, this project is looking like it will be a success, and as long as we keep up this level of productivity I believe we can really make this happen.
 
 ## Week 18 Reflection
-We worked on our semester 1 presentation.!
+We worked on our semester 1 presentation.
 
 ## Week 19 Reflection
 We did a lot of testing and it worked!!!!!!! We produced a signifigant amount of hydrogen using the power supply to power it. We will continue to use the power supply for testing, however we do need to find an easier and cheaper power source for the final product. We are now going to work on capturing the hydrogen via aquarium tubing. We ran into issues of leaking but they are relatively easy to fix right now, however we may need to redisign the way our box fits together.
