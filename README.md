@@ -50,3 +50,6 @@ We worked on our semester 1 presentation.
 
 ## Week 19 Reflection
 We did a lot of testing and it worked!!!!!!! We produced a signifigant amount of hydrogen using the power supply to power it. We will continue to use the power supply for testing, however we do need to find an easier and cheaper power source for the final product. We are now going to work on capturing the hydrogen via aquarium tubing. We ran into issues of leaking but they are relatively easy to fix right now, however we may need to redisign the way our box fits together.
+
+## Week 20 Reflection
+We develpoed our idea of our showcase of hydrogen combustion power and found how we would spark it. We are not sure how explody the hydrogen will be so we will need to experiment with the volitility of the hydrogen we produce, or more precisley the HHO we make. WE also redesigned our funnel and modeled it in onshape. Next week we will work on furthering our combustion showcase`
