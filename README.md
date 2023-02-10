@@ -53,3 +53,6 @@ We did a lot of testing and it worked!!!!!!! We produced a signifigant amount of
 
 ## Week 20 Reflection
 We develpoed our idea of our showcase of hydrogen combustion power and found how we would spark it. We are not sure how explody the hydrogen will be so we will need to experiment with the volitility of the hydrogen we produce, or more precisley the HHO we make. WE also redesigned our funnel and modeled it in onshape. Next week we will work on furthering our combustion showcase`
+
+## Week 21 Reflection
+Modeled combustion device and printed it and figured out core issues with our design. We also made nozzles on the funnel for the tubes to attach on to. We will continue to research how to create our hydrogen power showcase.
