@@ -56,3 +56,6 @@ We develpoed our idea of our showcase of hydrogen combustion power and found how
 
 ## Week 21 Reflection
 Modeled combustion device and printed it and figured out core issues with our design. We also made nozzles on the funnel for the tubes to attach on to. We will continue to research how to create our hydrogen power showcase.
+
+## Week 22 Reflection
+This week we added a nozzel onto our funnel and printed it to fit our tubing. We bought tubing and flex seal and have fully sealed our box and it has no leaks now. We are now figuring out the best way to fill the tube with water to eliminate the air that would contaminate our hydrogen. Right now we need a bigger bucket/box to fill with water. Next week we will get a bigger bottle and start prepreations for testing our storage system.
