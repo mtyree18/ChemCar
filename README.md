@@ -64,6 +64,9 @@ This week we added a nozzel onto our funnel and printed it to fit our tubing. We
 This week we worked on putting the finishing touches on our whole system. We decided to make a launch platform instead of the cap idea, as well as deciding to seal the box with flex seal. No new resources were discovered this week. We discovered that the pop cap explosion system would not be able to contain our hydrogen, as well as discovered that our funnel needs better support with the tube attached to it. We completed a lot this week, such as sealing the box, assembling all our materials we will need, putting in new rods, as well as finalizing the ideas behind each step of the kit. The difficulty as usual lied in the lack of time available. We had no time on Monday, and that left us with only Tuesday and Thursday to make progress. Next week we plan to have completed the prototype and start on making it into a final design
 
 ## Week 24 Reflection
-
+We started creating an instruction booklet and implemented a lot of changes in our design of our box. We changed box dimensions on onshape, removed unnesacary holes, added fill lines to the box, graphite rod changes, and found better heatshrink to fit rods.
 ## Week 25 Reflection
 We have done a lot of house keeping things like starting an instruction booklet and refining our method of transporting the hydrogen. We have also refined our funnel in order to be more compatable with the tubing. We have also decided to use a pump to reomove air from the tubing.
+
+## Week 26 reflection
+We finished designing and laser cut our new box. We made sure everything fit together well and filed it. We taped the walls in the shape of windows so when we sealed the box we would see through some of it. We also printed new rod holders and funnel. We also made our new graphite rod assembly. WE will continue to flexseal our box to make in water tight
