@@ -70,3 +70,6 @@ We have done a lot of house keeping things like starting an instruction booklet 
 
 ## Week 26 reflection
 We finished designing and laser cut our new box. We made sure everything fit together well and filed it. We taped the walls in the shape of windows so when we sealed the box we would see through some of it. We also printed new rod holders and funnel. We also made our new graphite rod assembly. WE will continue to flexseal our box to make in water tight
+
+## Week 27 reflection
+We flexsealed most of our box, this took a while because we need to do each wall individually and wait 24 hours for it to dry. We also resisiged our funnel to make it more sturdy so it wouldnt break aseasily. We will continue to seal our box, but we ran out of flex seal. In the future we should of sealed it in groups of parts so it would dry much faster instead of adding one or two parts at a time. 
