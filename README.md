@@ -73,3 +73,6 @@ We finished designing and laser cut our new box. We made sure everything fit tog
 
 ## Week 27 reflection
 We flexsealed most of our box, this took a while because we need to do each wall individually and wait 24 hours for it to dry. We also resisiged our funnel to make it more sturdy so it wouldnt break aseasily. We will continue to seal our box, but we ran out of flex seal. In the future we should of sealed it in groups of parts so it would dry much faster instead of adding one or two parts at a time. 
+
+## Week 30 Reflection
+This week we cut out a new box after our first one broke. We assembled the new box and have a plan to seal just the outside so the box doesn't crack. In the old box everything worked and the hydrogen went through the tube. The only problem was it getting stuck because the tube was angled down. We have fixed this by raising the tube so the hydrogen is rising. Next week we will seal the box and test.
