@@ -68,11 +68,17 @@ We started creating an instruction booklet and implemented a lot of changes in o
 ## Week 25 Reflection
 We have done a lot of house keeping things like starting an instruction booklet and refining our method of transporting the hydrogen. We have also refined our funnel in order to be more compatable with the tubing. We have also decided to use a pump to reomove air from the tubing.
 
-## Week 26 reflection
+## Week 26 Reflection
 We finished designing and laser cut our new box. We made sure everything fit together well and filed it. We taped the walls in the shape of windows so when we sealed the box we would see through some of it. We also printed new rod holders and funnel. We also made our new graphite rod assembly. WE will continue to flexseal our box to make in water tight
 
-## Week 27 reflection
+## Week 27 Reflection
 We flexsealed most of our box, this took a while because we need to do each wall individually and wait 24 hours for it to dry. We also resisiged our funnel to make it more sturdy so it wouldnt break aseasily. We will continue to seal our box, but we ran out of flex seal. In the future we should of sealed it in groups of parts so it would dry much faster instead of adding one or two parts at a time. 
+
+## Week 28 Reflection
+We were unable to make the seal work, that is what weve been working on all week, trying our best to fix cracks.
+
+## Week 29 Reflection
+We continued to try to make the box totally sealed and ran a test of our hydrogen machine and it did not run well, but we learned a lot and have to redesign it a good bit, because the hydrgoen does not have enough pressure to travel all the way up the tube to get to our storage place, and we couldnt seal it into the can, so we will use a balloon to seal it in there. 
 
 ## Week 30 Reflection
 This week we cut out a new box after our first one broke. We assembled the new box and have a plan to seal just the outside so the box doesn't crack. In the old box everything worked and the hydrogen went through the tube. The only problem was it getting stuck because the tube was angled down. We have fixed this by raising the tube so the hydrogen is rising. Next week we will seal the box and test.
